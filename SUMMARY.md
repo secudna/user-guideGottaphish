@@ -2,8 +2,7 @@
 
 * [Introduction](README.md)
 * [License](license.md)
-* [What is Gophish?](what-is-gophish.md)
-* [Installation](installation.md)
+* [What is Gottaphish?](what-is-gophish.md)
 * [Getting Started](getting-started.md)
 * [Documentation](documentation/README.md)
   * [Changing Account Settings](documentation/changing-user-settings.md)
@@ -27,6 +26,4 @@
   * [Creating the Landing Page](building-your-first-campaign/creating-the-landing-page.md)
   * [Launching the Campaign](building-your-first-campaign/launching-the-campaign.md)
 * [Template Reference](template-reference.md)
-* [Additional References](additional-references.md)
 * [FAQ](faq.md)
-

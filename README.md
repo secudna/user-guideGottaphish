@@ -1,12 +1,9 @@
 # Introduction
 
-![](https://raw.github.com/jordan-wright/gophish/master/static/images/gophish_purple.png)
+![](https://raw.github.com/jordan-wright/gophish/master/static/images/gophish\_purple.png)
 
-## Welcome to Gophish!
+## Welcome to Gottaphish!
 
-_Current Version: 0.10.1_
+Gottaphish is a powerful, easy-to-use, tool meant to help pentesters and businesses conduct real-world phishing simulations.
 
-Gophish is a powerful, easy-to-use, open-source phishing toolkit meant to help pentesters and businesses conduct real-world phishing simulations.
-
-This user guide introduces Gophish and shows how to use the software, building a complete campaign from start to finish.
-
+This user guide introduces Gottaphish and shows how to use the software, building a complete campaign from start to finish.
