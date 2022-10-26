@@ -4,7 +4,7 @@ To send emails, Gottaphish requires you to set up the name who will be displayed
 
 It's important to make sure that your "From" address is a valid email address format.
 
-![](<../.gitbook/assets/image (2).png>)
+![](<../.gitbook/assets/image (1).png>)
 
 To test your SMTP configuration, you can click the "Send Test Email" button:
 

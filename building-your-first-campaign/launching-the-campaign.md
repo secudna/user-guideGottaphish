@@ -6,7 +6,7 @@ To create a new campaign, navigate to the Campaigns page and click the "New Camp
 
 Most of the settings should be self-explanatory. The only thing to look out for is the `URL` field. we have the choice between many domain, it will be the domain where the link will lead. You can add new domain by clicking on 'Here", we have selected tech-support-demophishing.ovh, that's what we'll use:
 
-![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (2).png>)
 
 Once all the settings filled, click "Launch Campaign" to start sending the emails!
 

@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [License](license.md)
 * [What is Gottaphish?](what-is-gophish.md)
 * [Getting Started](getting-started.md)
 * [Documentation](documentation/README.md)
