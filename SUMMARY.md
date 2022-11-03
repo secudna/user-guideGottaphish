@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
 * [What is Gottaphish?](what-is-gophish.md)
+* [Prerequisite for use](prerequisite-for-use.md)
 * [Getting Started](getting-started.md)
 * [Documentation](documentation/README.md)
   * [Changing Account Settings](documentation/changing-user-settings.md)
