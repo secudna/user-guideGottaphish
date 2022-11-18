@@ -1,5 +1,7 @@
 # User Management
 
+In addition to use SSO for your account, you can use some local account
+
 Gottaphish supports user accounts with different roles. Right now, we offer two separate roles that can be assigned to users:
 
 * **User** - This role allows the user to do anything _except_ system-level administrative tasks, such as managing users, managing webhooks, etc.

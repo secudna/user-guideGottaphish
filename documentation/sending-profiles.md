@@ -6,7 +6,7 @@ It's important to make sure that your "From" address is a valid email address fo
 
 The domain used in the email (here compte-google.com) must have been acquired before. To see the acquired domains please go to the page Campaign, click on New Campaign and see the available values in the URL field
 
-![](<../.gitbook/assets/image (1).png>)
+![](<../.gitbook/assets/image (1) (2).png>)
 
 To test your SMTP configuration, you can click the "Send Test Email" button:
 
