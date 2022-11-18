@@ -1,12 +1,12 @@
 # Landing Pages
 
+
+
 Landing pages are the actual HTML pages that are returned to the users when they click the phishing links they receive.
 
 Landing pages support templating, capturing credentials, and redirecting users to another website after they submit their credentials.
 
-> Note: Landing pages are stored in the database. Gophish generates a unique ID \(called the `rid` parameter\) for each recipient in a campaign, and uses this ID to dynamically load the correct landing page.
 >
-> To preview what a landing page will look like, you will need to either use the HTML editor seen below, or launch a test campaign. Simply browsing directly to the Gophish listener without specifying an `rid` parameter will display a generic 404 page.
 
 To create a landing page, click on the "Landing Pages" entry in the sidebar and click the "New Page" button.
 
@@ -16,26 +16,42 @@ The landing page modal supports the same HTML WYSIWYG editor shown in the Templa
 
 ## Importing a Site From URL
 
-A powerful feature of Gophish is the ability to import a site from a URL. To import a site, click the "Import Site" button.
+A powerful feature of Gottaphish is the ability to import a site from a URL. To import a site, click the "Import Site" button.
 
-![](http://imgur.com/uqxm6iB.png)  
+![](http://imgur.com/uqxm6iB.png)\
 After entering the URL and clicking "Import", you should see the HTML of the URL populated into the editor.
+
+If the page imported doesn't look like the imported website, don't hesitate to copy paste the HTML code exported from the module "Save-page-we"&#x20;
+
+{% embed url="https://addons.mozilla.org/en-US/firefox/addon/save-page-we/" %}
+Extension Firefox
+{% endembed %}
+
+{% embed url="https://chrome.google.com/webstore/detail/save-page-we/dhhpefjklgkmgeafimnjhojgjamoafof" %}
+Extension google chrome
+{% endembed %}
 
 ## Capturing Credentials
 
-Gophish makes it easy to capture credentials from the landing page. To capture credentials, simply select the checkbox that says "Capture Submitted Data".
+Gottaphish makes it easy to capture credentials from the landing page. To capture credentials, simply select the checkbox that says "Capture Submitted Data".
 
-> Note: Credentials are stored **in plaintext**. If you don't want to capture passwords, don't select the "Capture Passwords" checkbox. Gophish will still capture other text fields, such as usernames.
+> Note: Credentials are stored **in plaintext**. If you don't want to capture passwords, don't select the "Capture Passwords" checkbox. Gottaphish will still capture other text fields, such as usernames.
 
 ### Redirecting Users
 
 Red team assessments are all about preventing suspicion. To prevent users from becoming suspicious after entering credentials, you may want to redirect them to the original URL.
 
-Gophish makes it easy to redirect users after they submit credentials. To redirect users, enter a URL in the "Redirect To:" text field that appears after the "Capture Submitted Data" checkbox is selected.
+Gottaphish makes it easy to redirect users after they submit credentials. To redirect users, enter a URL in the "Redirect To:" text field that appears after the "Capture Submitted Data" checkbox is selected.
 
-> Note: Make sure to include the full URL \(including the scheme such as http:// or https://\). Otherwise, browsers may interpret the URL as being relative to the Gophish URL.
+> Note: Make sure to include the full URL (including the scheme such as http:// or https://). Otherwise, browsers may interpret the URL as being relative to the Gottaphish URL.
 
 ## Static Assets
 
-There may be times that you want to store assets such as HTML pages, CSS/JS resources or other static files. To use these in Gophish, just move them under the `static/endpoint` directory. You can then reference them using the URL `http[s]://phishing_server/static/filename`. For more background, see [this issue.](https://github.com/gophish/gophish/issues/220)
+There may be times that you want to store assets such as  CSS/JS resources. To use these in Gottaphish, just compile them and add them to the block `head.`
 
+`You can also contact the support and we can add them for you in a static folder (like yoururl.com/static/myjsfile.js)`
+
+The HTML `<head>` element is a container for the following elements: `<title>`, `<style>`, `<meta>`, `<link>`, `<script>`, and `<base>`.
+
+\
+&#x20;
