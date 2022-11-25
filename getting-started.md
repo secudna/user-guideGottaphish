@@ -2,15 +2,18 @@
 
 ## Running Gottaphish
 
-## Logging In
+## Logging in
 
-After you account has been created, you can open a browser and navigate to [https://\*\*\*\*\*.gottaphish.com:3333/ ](getting-started.md#running-gophish) to reach the login page.
+After you account has been created, you can open a browser and navigate to [https://\*\*\*\*\*.gottaphish.com](getting-started.md#running-gophish) to reach the login page.
 
-
+xxxx: provided by SecuDna
 
 Username: Sent by email&#x20;
 
 Password: Sent by email
 
-![Login Screen](https://i.imgur.com/Yw63OGq.png)
 
+
+If you are using SSO/Okta/Oauth, please click on Sign in with SSO
+
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
