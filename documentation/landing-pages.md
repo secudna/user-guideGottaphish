@@ -16,7 +16,9 @@ The landing page modal supports the same HTML WYSIWYG editor shown in the Templa
 
 ## Importing a Site From URL
 
-A powerful feature of Gottaphish is the ability to import a site from a URL. To import a site, click the "Import Site" button.
+A powerful feature of Gottaphish is the ability to import a site from a URL. To import a site, click the "Import Site" button.&#x20;
+
+(beta) Instead of the open Source Gophish, Gottaphish can also use an import compatible with javascript if the content of the page only load with a JS script.&#x20;
 
 ![](http://imgur.com/uqxm6iB.png)\
 After entering the URL and clicking "Import", you should see the HTML of the URL populated into the editor.
