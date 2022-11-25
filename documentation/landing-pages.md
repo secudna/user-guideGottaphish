@@ -33,6 +33,14 @@ Extension Firefox
 Extension google chrome
 {% endembed %}
 
+## Create a proxy landing page (beta)
+
+This features allows you to select the page that you would like so phish and to use Gottaphish like [Evilginx2.](https://github.com/kgretzky/evilginx2)
+
+
+
+A dedicated doc how to use this feature in your dashboard will be available soon
+
 ## Capturing Credentials
 
 Gottaphish makes it easy to capture credentials from the landing page. To capture credentials, simply select the checkbox that says "Capture Submitted Data".
