@@ -14,6 +14,7 @@
   * [Campaigns](documentation/campaigns.md)
   * [Using the API](documentation/using-the-api.md)
   * [Generating Reports](documentation/generating-reports.md)
+  * [Access emails answered](documentation/generating-reports-1.md)
   * [Email Reporting](documentation/email-reporting.md)
   * [Webhooks](documentation/webhooks.md)
   * [User Management](documentation/user-management.md)
