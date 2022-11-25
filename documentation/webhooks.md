@@ -6,7 +6,7 @@ When you configure a webhook, Gottaphish will make (optionally signed) HTTP requ
 
 Gottaphish supports multiple webhooks. Only users with the Admin role are able to create webhooks by navigating to the "Webhooks" sidebar entry and clicking the "New Webhook" button.
 
-![](../.gitbook/assets/screen-shot-2020-01-20-at-11.29.54-am.png)
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 ### Validating Signatures
 
