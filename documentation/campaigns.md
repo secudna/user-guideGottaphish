@@ -12,8 +12,8 @@ Setting up a campaign requires the following fields to be provided:
 
 * **Name** - The name of the campaign
 * **Email Template** - The email that is sent to campaign recipients. This is created in the [Email Templates](templates.md) section of the documentation.
-* **Landing Page** - The HTML that is returned when a recipient clicks the link in the email template. This is created in the [Landing Pages](landing-pages.md) section of the documentation.
-* **URL** - This is the URL that populates the `{{.URL}}` template value, commonly used in email templates. If the URL wanted is not in the list please click on _Here_ (the green message)
+* **Landing Page** - The HTML that is returned when a recipient clicks the link in the email template. This is created in the [Landing Pages](landing-pages.md) section of the documentation.&#x20;
+* **URL** - This is a list of URL that populates the `{{.URL}}` template value, commonly used in email templates. If the URL wanted is not in the list please click on _Here_ (the green message)
 * **Launch Date** - This is the date that the campaign will begin. See Scheduling Campaigns for more information.
 * **Send Emails By** - This is the date all emails will be sent by. See Scheduling Campaigns for more information.
 * **Sending Profile** - The profile configured with the good sender email
