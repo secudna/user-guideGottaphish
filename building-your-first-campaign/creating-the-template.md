@@ -2,13 +2,17 @@
 
 To create the template we will use for our Morning Catch campaign, first navigate to the "Email Templates" page and click the "New Template" button.
 
-![New Template Dialog](https://imgur.com/FPqcZOG.png)
+
+
+We invite you to read [Template documentation](../documentation/templates.md)
+
+<figure><img src="../.gitbook/assets/image (7).png" alt="" width="188"><figcaption></figcaption></figure>
 
 We notice that Morning Catch comes with a webmail portal. Let’s craft a simple template that suggests the user needs to go reset their password. Obviously, this is a simple scenario, and by using the "Import Email" feature, you can import existing emails directly into gophish for a greater effect.
 
 We'll use the following subject line:
 
-```text
+```
 Password Reset for {{.Email}}
 ```
 
@@ -24,7 +28,7 @@ Since our content is pretty simple, we can just click the "Source" button and be
 
 Our template will be simple for the sake of demonstration. I'll start by adding the message:
 
-```text
+```
 {{.FirstName}},
 
 The password for {{.Email}} has expired. Please reset your password here.
@@ -38,4 +42,3 @@ Speaking of links, now we need to add our phishing link. Highlight the word "her
 ![Link Menu](http://imgur.com/sWLOxbg.png)
 
 Finally, make sure the "Add Tracking Image" checkbox is checked, and click "Save Template".
-
