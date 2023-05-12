@@ -1,6 +1,6 @@
 # Introduction
 
-![](https://raw.github.com/jordan-wright/gophish/master/static/images/gophish\_purple.png)
+<figure><img src=".gitbook/assets/logo_login.png" alt=""><figcaption></figcaption></figure>
 
 ## Welcome to Gottaphish !
 
