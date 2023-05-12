@@ -4,11 +4,17 @@ Reporting is an important part of any Gottaphish campaign. To help facilitate ge
 
 ## Using the Web UI
 
-The Gottaphish dashboard gives a quick overview showing the results for a particular campaign:
+The Gottaphish dashboard (Campaigns section) gives a quick overview showing the results for a particular campaign:
 
-![](../.gitbook/assets/localhost\_3333\_campaigns\_25-macbook.png)
+<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
 
 In addition to providing the results in the dashboard, you have the option to export the raw logs from Gottaphish using the "Export CSV" button at the top of the page. You could then parse these CSV files using other software such as Excel or Google Sheets.
+
+## Using the Gottaphish reporting tool
+
+By clicking on the Reporting section you will arrive on the Opensearch dashboard. From there you can build your own dashboard or using the default one and click on export PDF
+
+<figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 ## Using GoReport
 

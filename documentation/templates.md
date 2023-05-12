@@ -8,7 +8,7 @@ Additionally, templates can contain tracking images so that gophish knows when t
 
 To create a template, first navigate to the “Email Templates” page and click the “New Template” button.
 
-![](<../.gitbook/assets/image (3).png>)
+![](<../.gitbook/assets/image (4).png>)
 
 ### Using the HTML Editor
 
