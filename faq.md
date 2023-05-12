@@ -16,7 +16,7 @@ A good way to see if this is working correctly is to send a test email to yourse
 **Tip**: Don't try to put your Gottaphish URL directly into a template. It's very important to use the `{{.URL}}` template tag, since that's how Gottaphish knows to generate the unique URL for each recipient.
 {% endhint %}
 
-****
+
 
 ## Submitted Form Data Isn't Being Captured
 

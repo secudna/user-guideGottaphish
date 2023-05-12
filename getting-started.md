@@ -16,4 +16,4 @@ Password: Sent by email
 
 If you are using SSO/Okta/Oauth, please click on Sign in with SSO
 
-<figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
