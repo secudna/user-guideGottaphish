@@ -16,4 +16,10 @@ To test your SMTP configuration, you can click the "Send Test Email" button:
 
 &#x20;⚠️ When you send a test email, the "SMTP From" need to be at the format xxx@xxx.tld and not XX YY \<xxx@xxx.tld>.
 
+If you want to send a text instead of a email you can use the format "33878489371@tel" or "33878489371@whatsapp", this will sent an text/whatsapp from 33878489371. To be able to use this you should  get the Gottaphish license with text included.&#x20;
+
+
+
+
+
 After entering the recipient details and clicking "Send", you should see a message indicating if the email was sent successfully.
