@@ -20,7 +20,6 @@
   * [User Management](documentation/user-management.md)
 * [Building Your First Campaign](building-your-first-campaign/README.md)
   * [Introducing the Morning Catch Corporation](building-your-first-campaign/introducing-the-morning-catch-corporation.md)
-  * [Creating the Sending Profile](building-your-first-campaign/creating-the-sending-profile.md)
   * [Importing Groups](building-your-first-campaign/importing-groups.md)
   * [Creating the Template](building-your-first-campaign/creating-the-template.md)
   * [Creating the Landing Page](building-your-first-campaign/creating-the-landing-page.md)
