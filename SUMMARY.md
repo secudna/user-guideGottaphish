@@ -10,7 +10,6 @@
   * [Templates](documentation/templates.md)
   * [Attachment Tracking](documentation/attachments.md)
   * [Landing Pages](documentation/landing-pages.md)
-  * [Sending Profiles](documentation/sending-profiles.md)
   * [Campaigns](documentation/campaigns.md)
   * [Using the API](documentation/using-the-api.md)
   * [Generating Reports](documentation/generating-reports.md)
