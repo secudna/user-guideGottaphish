@@ -14,6 +14,8 @@ In addition to providing the results in the dashboard, you have the option to ex
 
 By clicking on the Reporting section you will arrive on the Opensearch dashboard. From there you can build your own dashboard or using the default one and click on export PDF
 
+Tips: Dont forget to click on Complete on the Web UI campaign to export the result in this Opensearch dashboard.
+
 <figure><img src="../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 ## Using GoReport
