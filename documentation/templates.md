@@ -8,13 +8,15 @@ Additionally, templates can contain tracking images so that gophish knows when t
 
 To create a template, first navigate to the “Email Templates” page and click the “New Template” button.
 
-![](<../.gitbook/assets/image (4).png>)
+![](../.gitbook/assets/image.png)
+
+The envelloper sender define the email that will be displayed in the email. We recommend you to use a domain that you bought via the Domain page.&#x20;
 
 ### Using the HTML Editor
 
 A powerful feature of Gophish is the HTML editor. To switch between the HTML source code and the visual view, click the "Source" button.
 
-![HTML Editor](https://imgur.com/elue6xK.png)
+![](<../.gitbook/assets/image (1).png>)
 
 This is helpful to ensure that the email received by the user is pixel-perfect.
 
