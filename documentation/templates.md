@@ -8,7 +8,7 @@ Additionally, templates can contain tracking images so that gophish knows when t
 
 To create a template, first navigate to the “Email Templates” page and click the “New Template” button.
 
-![](../.gitbook/assets/image.png)
+![](<../.gitbook/assets/image (2).png>)
 
 The envelloper sender define the email that will be displayed in the email. We recommend you to use a domain that you bought via the Domain page.&#x20;
 
@@ -16,7 +16,7 @@ The envelloper sender define the email that will be displayed in the email. We r
 
 A powerful feature of Gophish is the HTML editor. To switch between the HTML source code and the visual view, click the "Source" button.
 
-![](<../.gitbook/assets/image (1).png>)
+![](<../.gitbook/assets/image (1) (1).png>)
 
 This is helpful to ensure that the email received by the user is pixel-perfect.
 
@@ -25,6 +25,26 @@ This is helpful to ensure that the email received by the user is pixel-perfect.
 With the IA section you can generate automatically an email for the company/website that you want. You just need to fill the name or the website of the company , to choose a phishing scenario, to click on <> Source and "Create the content by IA"  and a automatic email will be designed just for you. Don't hesitate to click on <> Source again after to visually see the email&#x20;
 
 
+
+
+
+**Getting an answer to the email**
+
+If you are using a sender that is not with a domain that you bought, and if want to get the answer of your phishing email, you will have to change the reply to header:
+
+**Go to the url:  /**sending\_profiles
+
+And change the email sending profile email
+
+![](../.gitbook/assets/image.png)
+
+
+
+![](<../.gitbook/assets/image (1).png>)
+
+
+
+Add the replay to and save profile
 
 ### Importing an Email
 
