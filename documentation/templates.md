@@ -51,3 +51,35 @@ Add the replay to and save profile
 Gophish supports the ability to import an email from the raw content. To do this, click the "Import Email" button and paste in the original email content. This content is usually found through the "View Original" feature of many mail clients:
 
 ![Import Email](https://imgur.com/QAZCrHu.png)
+
+## Creating Templates with AI&#x20;
+
+To create a template, first go to the “Email Templates” page and click the “New Template with AI” button.
+
+<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+
+The enveloper sender define the email that will be displayed in the email. We recommend you to use a domain that you bought via the Domain page.&#x20;
+
+### Email settings&#x20;
+
+* If you choose internal email, the email will be sent to the company you are in, it is an email from a colleague. But if you choose an external email, it's an email that comes from a company other than the one running the campaign.
+* We can choose the languages ​​from the available choices.
+* It is possible to provide context.
+
+### Static email
+
+You can choose if you want to target a role but it is optional. Then you can choose the phishing attack from the drop-down list. But if you want, you can click with a pen to write your own phishing attack.&#x20;
+
+Then you can click on the “Generate custom scenarios for {company name}” button and wait.
+
+&#x20;Then you get this if you chose a scenario from the drop-down list.
+
+<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+
+You just need to choose the desired context. After clicking on the “generate an email with AI” button.
+
+<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+
+And here is the result after waiting. But you can click on the enlarge button to see the result in a larger size.&#x20;
+
+<figure><img src="../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>

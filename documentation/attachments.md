@@ -17,7 +17,7 @@ Any template variables placed inside these documents will be converted to the ap
 
 If you just want to get up and running, using the above templates is probably for you. Keep reading below if you're interested how these examples were created (specifically the Office documents which are more involved).
 
-
+***
 
 ## Plain Text Examples
 
