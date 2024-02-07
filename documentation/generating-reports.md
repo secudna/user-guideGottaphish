@@ -6,7 +6,7 @@ Reporting is an important part of any Gottaphish campaign. To help facilitate ge
 
 The Gottaphish dashboard (Campaigns section) gives a quick overview showing the results for a particular campaign:
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (1).png" alt=""><figcaption></figcaption></figure>
 
 In addition to providing the results in the dashboard, you have the option to export the raw logs from Gottaphish using the "Export CSV" button at the top of the page. You could then parse these CSV files using other software such as Excel or Google Sheets.
 
