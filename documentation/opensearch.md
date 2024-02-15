@@ -47,3 +47,7 @@ At the top left in filtered then in "edit as Query DSL" you can filter for examp
   }
 }
 ```
+
+It is also possible to see vulnerable browsers.&#x20;
+
+<figure><img src="../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
