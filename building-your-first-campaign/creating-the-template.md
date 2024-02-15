@@ -6,7 +6,7 @@ To create the template we will use for our Morning Catch campaign, first navigat
 
 We invite you to read [Template documentation](../documentation/templates.md)
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
 We notice that Morning Catch comes with a webmail portal. Let’s craft a simple template that suggests the user needs to go reset their password. Obviously, this is a simple scenario, and by using the "Import Email" feature, you can import existing emails directly into gophish for a greater effect.
 

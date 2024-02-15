@@ -6,7 +6,7 @@ Gottaphish is centered around launching campaigns. This involves sending emails 
 
 To configure and launch a campaign, click the "Campaigns" entry in the navigation sidebar.
 
-![](<../.gitbook/assets/image (3) (1) (1).png>)
+![](<../.gitbook/assets/image (3) (1) (1) (1).png>)
 
 Setting up a campaign requires the following fields to be provided:
 
@@ -35,7 +35,7 @@ After you have the campaign configuration ready to go, click the "Launch Campaig
 
 When a campaign is launched, you are automatically redirected to the campaign results screen:
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 On the results page, you will see overview information on the campaign status as well as detailed results for each target.
 

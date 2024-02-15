@@ -8,7 +8,7 @@ Additionally, templates can contain tracking images so that gophish knows when t
 
 To create a template, first navigate to the “Email Templates” page and click the “New Template” button.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
 The envelloper sender define the email that will be displayed in the email. We recommend you to use a domain that you bought via the Domain page.&#x20;
 
@@ -16,7 +16,7 @@ The envelloper sender define the email that will be displayed in the email. We r
 
 A powerful feature of Gophish is the HTML editor. To switch between the HTML source code and the visual view, click the "Source" button.
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption></figcaption></figure>
 
 This is helpful to ensure that the email received by the user is pixel-perfect.
 
@@ -30,11 +30,11 @@ If you are using a sender that is not with a domain that you bought, and if want
 
 And change the email sending profile email
 
-![](<../.gitbook/assets/image (3).png>)
+![](<../.gitbook/assets/image (3) (1).png>)
 
 
 
-![](<../.gitbook/assets/image (1) (1).png>)
+![](<../.gitbook/assets/image (1) (1) (1).png>)
 
 
 
@@ -50,7 +50,7 @@ Gophish supports the ability to import an email from the raw content. To do this
 
 To create a template, first go to the “Email Templates” page and click the “New Template with AI” button.
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 The enveloper sender define the email that will be displayed in the email. We recommend you to use a domain that you bought via the Domain page.&#x20;
 
@@ -68,11 +68,11 @@ Then you can click on the “Generate custom scenarios for {company name}” but
 
 &#x20;Then you get this if you chose a scenario from the drop-down list.
 
-<figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (9) (1).png" alt=""><figcaption></figcaption></figure>
 
 You just need to choose the desired context. After clicking on the “generate an email with AI” button.
 
-<figure><img src="../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (10) (1).png" alt=""><figcaption></figcaption></figure>
 
 And here is the result after waiting. But you can click on the enlarge button to see the result in a larger size.&#x20;
 
