@@ -11,7 +11,7 @@
   * [Attachment Tracking](documentation/attachments.md)
   * [Landing Pages](documentation/landing-pages.md)
   * [Campaigns](documentation/campaigns.md)
-  * [OpenSearch](documentation/opensearch.md)
+  * [OpenSearch (Optional)](documentation/opensearch-optional.md)
   * [Using the API](documentation/using-the-api.md)
   * [Generating Reports](documentation/generating-reports.md)
   * [Access emails answered](documentation/generating-reports-1.md)
