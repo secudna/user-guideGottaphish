@@ -1,3 +1,9 @@
+---
+description: >-
+  Opensearch is optional because it is an extra, it is not included in the base
+  price or it is included in our price but more expensive.
+---
+
 # OpenSearch (Optional)
 
 OpenSearch is a family of software consisting of a search engine and OpenSearch Dashboards, a data visualization dashboard for that search engine. Designed as a community project, OpenSearch was born from the split of the Elasticsearch project, which was initially a search and data analysis solution.
