@@ -1,14 +1,14 @@
 ---
 description: >-
-  Opensearch is optional because it is an extra, it is not included in the base
-  price or it is included in our price but more expensive.
+  Advanced Dashboard (OpenSearch) is optional because it is an extra, it is not
+  included in the base price or it is included in our price but more expensive.
 ---
 
-# OpenSearch (Optional)
+# Advanced Dashboard (Optional)
 
-OpenSearch is a family of software consisting of a search engine and OpenSearch Dashboards, a data visualization dashboard for that search engine. Designed as a community project, OpenSearch was born from the split of the Elasticsearch project, which was initially a search and data analysis solution.
+Advanced Dashboard is a family of software consisting of a search engine and Advanced Dashboard Dashboards, a data visualization dashboard for that search engine. Designed as a community project, Advanced Dashboard was born from the split of the Elasticsearch project, which was initially a search and data analysis solution.
 
-OpenSearch is an open source, customizable and scalable search technology that provides advanced search and data analysis capabilities. With an open API, it is easy to integrate into other applications. OpenSearch also benefits from an active community of developers and users, supporting its continued development.
+Advanced Dashboard is an open source, customizable and scalable search technology that provides advanced search and data analysis capabilities. With an open API, it is easy to integrate into other applications. Advanced Dashboard also benefits from an active community of developers and users, supporting its continued development.
 
 
 
