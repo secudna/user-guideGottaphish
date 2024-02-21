@@ -6,7 +6,7 @@
 
 After you account has been created, you can open a browser and navigate to [https://\*\*\*\*\*.gottaphish.com](getting-started.md#running-gophish) to reach the login page.
 
-xxxx: provided by SecuDna
+xxxx: provided by Gottaphish
 
 Username: Sent by email&#x20;
 
