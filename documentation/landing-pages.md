@@ -6,7 +6,7 @@ Landing pages are the actual HTML pages that are returned to the users when they
 
 Landing pages support templating, capturing credentials, and redirecting users to another website after they submit their credentials.
 
->
+
 
 To create a landing page, click on the "Landing Pages" entry in the sidebar and click the "New Page" button.
 
