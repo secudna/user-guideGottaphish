@@ -43,9 +43,11 @@ A dedicated doc how to use this feature in your dashboard will be available soon
 
 ## Capturing Credentials
 
-Gottaphish makes it easy to capture credentials from the landing page. To capture credentials, simply select the checkbox that says "Capture Submitted Data".
+Gottaphish makes it easy to capture credentials from the landing page. To capture credentials, simply select the checkbox that says "Capture Submitted Data". And you can capture passwords by checking the “Capture Passwords” box.&#x20;
 
 > Note: Credentials are stored **in plaintext**. If you don't want to capture passwords, don't select the "Capture Passwords" checkbox. Gottaphish will still capture other text fields, such as usernames.
+
+It is possible to check the “capture password strength” box which allows you to evaluate the strength of the password on a score of 1 to 100.
 
 ### Redirecting Users
 
