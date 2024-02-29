@@ -43,11 +43,7 @@ It is possible to check the “capture password strength” box which allows you
 
 ### Redirecting Users
 
-Red team assessments are all about preventing suspicion. To prevent users from becoming suspicious after entering credentials, you may want to redirect them to the original URL.
-
-Gottaphish makes it easy to redirect users after they submit credentials. To redirect users, enter a URL in the "Redirect To:" text field that appears after the "Capture Submitted Data" checkbox is selected.
-
-> Note: Make sure to include the full URL (including the scheme such as http:// or https://). Otherwise, browsers may interpret the URL as being relative to the Gottaphish URL.
+Red team assessments are primarily intended to prevent suspicion. To prevent users from becoming suspicious after entering their credentials, you may want to redirect them to the original URL. Gottaphish makes it easy to redirect users after submitting their credentials. This is why we have set up a redirection page which is the following "https://speed-training.gottaphish.com/fr/trap?rid=\{{.RId\}}" which warns the user it's being trapped.
 
 ## Static Assets
 
