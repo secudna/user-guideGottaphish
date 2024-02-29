@@ -33,14 +33,6 @@ Extension Firefox
 Extension google chrome
 {% endembed %}
 
-## Create a proxy landing page (beta)
-
-This features allows you to select the page that you would like so phish and to use Gottaphish like [Evilginx2.](https://github.com/kgretzky/evilginx2)
-
-
-
-A dedicated doc how to use this feature in your dashboard will be available soon
-
 ## Capturing Credentials
 
 Gottaphish makes it easy to capture credentials from the landing page. To capture credentials, simply check the “Capture submitted data” box but you will capture all except the password. Whereas if you want to capture passwords by checking the “Capture passwords” box.
@@ -64,6 +56,12 @@ There may be times that you want to store assets such as  CSS/JS resources. To u
 `You can also contact the support and we can add them for you in a static folder (like yoururl.com/static/myjsfile.js)`
 
 The HTML `<head>` element is a container for the following elements: `<title>`, `<style>`, `<meta>`, `<link>`, `<script>`, and `<base>`.
+
+
+
+## Example Landing page&#x20;
+
+This dynamic landing page will adapt depending on the company or tools the person is using. The page will adapt to resemble the desired service. It will consist of a connection space, the name and logo of the company or tool
 
 \
 &#x20;
