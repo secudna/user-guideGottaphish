@@ -12,6 +12,8 @@ You will see the following dialog appear:
 
 To add a group, you need to specify a _unique_ group name, as well as at least one recipient.
 
+In order for you to import, you must have your domain name whitelisted by Gottaphish or have it done automatically by entering their client name in the DNS TXT record "gottaphish.CLIENTNAME.TLD".
+
 ### Adding Users to the Group
 
 You can add the users to the group in two ways:
@@ -34,4 +36,3 @@ The CSV format gophish expects has the following header values:
 To upload a CSV with user information, click the "Bulk Import Users" button and select the CSV you want to upload. Users are then uploaded and displayed in the dialog.
 
 To save the group, click "Save changes".
-
