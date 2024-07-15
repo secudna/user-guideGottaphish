@@ -2,7 +2,7 @@
 
 <figure><img src=".gitbook/assets/logo_login.png" alt=""><figcaption></figcaption></figure>
 
-## Welcome to Gottaphish !
+## Welcome to Gottaphish !!
 
 Gottaphish is a powerful, easy-to-use, tool meant to help pentesters and businesses conduct real-world phishing simulations.
 
